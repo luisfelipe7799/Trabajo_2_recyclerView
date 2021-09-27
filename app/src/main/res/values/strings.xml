@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trabajo_2_recyclerView</string>
+    <string-array name="comidas">
+        <item>Porridge De Avena</item>
+        <item>Omelete</item>
+        <item>HotCake</item>
+        <item>Panqueques</item>
+
+    </string-array>
+
+    <string-array name="descripcion">
+        <item> Una receta muy completa que mezcla avena (copos, harina o trozeada) con leche o agua. El resultado es una pasta consistente. Por encima podemos añadirle semillas, frutos secos o trozos de fruta.</item>
+        <item>Es un plato elaborado con huevo batido y cocinado con mantequilla o aceite (depende de la zona), en una sartén. La forma que adquiere durante el cocinado es similar al de una hoja redonda, extendida o plegada sobre sí misma.</item>
+        <item>Masa fina que se prepara con harina, huevos, mantequilla y leche que se vierte sobre una sartén engrasada, "crepera" o plancha. Su forma es circular, y se puede rellenar tanto de ingredientes dulces como salados, estas últimas llamadas galettes.</item>
+        <item>Es una especie de crepe utilizado en las cocinas argentina, chilena, guatemalteca, hondureña, costarricense, mexicana, peruana, uruguaya y venezolana, para hacer preparaciones tanto dulces como saladas. Se lo acompaña también con un coulis de fresa, melocotón o relleno de plátano.</item>
+
+    </string-array>
+</resources>
